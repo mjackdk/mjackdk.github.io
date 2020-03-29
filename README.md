@@ -1,3 +1,0 @@
-## Is README needed?
-
-We'll see...
