@@ -1,4 +1,4 @@
 # mjackdk.github.io
-# GitHub Pages playground
+## GitHub Pages playground
 
 Learning by doing...
