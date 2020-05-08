@@ -1,9 +1,9 @@
-# mjackdk@github
+# Open Science Education
 
-Chemical engineer, developer and teacher, in no particular order
+## Introduction
+Teaching science in secondary school or high school often relies on proprietary lab equipment and related curriculum resources. This is both expensive and limiting.
 
-## Open Science Education
-Teaching science in secondary school or high school often relies on proprietary lab equipment and related curriculum resources. This is both expensive and limiting. What if we could develop our own equipment and curriculum?
+What if we could develop our own equipment and curriculum?
 
 ### Development Platforms
 - Arduino UNO
@@ -16,10 +16,16 @@ Teaching science in secondary school or high school often relies on proprietary 
 - Mu editor (MicroPython, CircuitPython, Python 3)
 - JupyterLab (Python 3)
 
-## Current
+## Projects
+
+### Current
 
 - [AmbientCO2](https://github.com/mjackdk/AmbientCO2): Arduino library for CozIR Ambient CO2 sensor
 
-## Upcoming
+### Upcoming
 
 - Colorimeter: Arduino library for measuring absorbance  
+
+## About mjackdk
+
+Chemical engineer, developer and teacher, in no particular order
