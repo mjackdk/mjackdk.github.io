@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# mjackdk@github
 
-You can use the [editor on GitHub](https://github.com/mjackdk/mjackdk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Chemical engineer, developer and teacher, in no particular order
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Open Science Education
+Teaching science in secondary school or high school often relies on proprietary lab equipment and related curriculum resources. This is both expensive and limiting. What if we could develop our own equipment and curriculum?
 
-### Markdown
+### Development Platforms
+- Arduino UNO
+- BBC micro::bit
+- Raspberry Pi 4
+- Raspberry Pi Zero
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Software Development
+- Arduino IDE (C/C++)
+- Mu editor (MicroPython, CircuitPython, Python 3)
+- JupyterLab (Python 3)
 
-```markdown
-Syntax highlighted code block
+## Current
 
-# Header 1
-## Header 2
-### Header 3
+- [AmbientCO2](https://github.com/mjackdk/AmbientCO2): Arduino library for CozIR Ambient CO2 sensor
 
-- Bulleted
-- List
+## Upcoming
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjackdk/mjackdk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Colorimeter: Arduino library for measuring absorbance  
