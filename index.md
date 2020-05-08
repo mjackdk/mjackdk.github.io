@@ -5,6 +5,8 @@ Teaching science in secondary school or high school often relies on proprietary 
 
 What if we could develop our own equipment and curriculum?
 
+This page demonstrates what flexible hardware and commonly available programming tools can provide. 
+
 ### Development Platforms
 - Arduino UNO
 - BBC micro::bit
