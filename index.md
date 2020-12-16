@@ -22,7 +22,7 @@ This page demonstrates how flexible hardware and freely available programming to
 #### Advanced
 - JupyterLab (Python 3)
 - Atom editor (C/C++, Python 3)
-- Visual Studio Code (C/C++, Python 3)
+- Visual Studio Code editor (C/C++, Python 3)
 
 #### Online
 - [Arduino Create](https://create.arduino.cc/)
