@@ -33,6 +33,7 @@ This page demonstrates how flexible hardware and freely available programming to
 ### Current
 
 - [AmbientCO2](https://github.com/mjackdk/AmbientCO2): Arduino library for CozIR Ambient CO2 sensor
+- [PythonCO2](https://github.com/mjackdk/PythonCO2) : Python module for CozIR Ambient CO2 sensor
 
 ### Upcoming
 
